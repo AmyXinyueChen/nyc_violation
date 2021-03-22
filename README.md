@@ -13,9 +13,9 @@
 
 ## Description
 
-This project is aimed to upload lots of data from the NYC Open Data Parking Violations and pushes that information into an Elasticsearch cluster provisioned via AWS by using EC2 instance. This way, the data is never “saved” into your EC2 instance but instead streamed directly to Elasticsearch.
+This project is aimed to upload lots of data from the NYC Open Data Parking Violations and pushes that information into an Elasticsearch cluster provisioned via AWS by using EC2 instance. This way, the data is never “saved” into your EC2 instance but instead streamed directly to Elasticsearch. After uploading all the data, I do visualization and analysis on the kibana.
 
-## General Information
+## General_Information
 
 Dataset: 
 Open Parking and Camera Violations:https://dev.socrata.com/foundry/data.cityofnewyork.us/nc67-uf89
