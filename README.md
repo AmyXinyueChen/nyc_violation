@@ -4,7 +4,7 @@
 
 * [Description](#Description)
 
-* [General Information](#General Information) 
+* [General_Information](#General_Information) 
 
 * [Usage](#Usage)
 
