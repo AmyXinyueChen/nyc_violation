@@ -9,9 +9,9 @@ This project is aimed to upload lots of data from the NYC Open Data Parking Viol
 Dataset: https://dev.socrata.com/foundry/data.cityofnewyork.us/nc67-uf89
 
 Python library: 
--sodapy==2.1.0: https://pypi.org/project/sodapy/
--requests==2.25.1 :https://pypi.org/project/requests/
--argparse: https://docs.python.org/3/library/argparse.html
+- sodapy==2.1.0: https://pypi.org/project/sodapy/
+- requests==2.25.1 :https://pypi.org/project/requests/
+- argparse: https://docs.python.org/3/library/argparse.html
 
 ## Usage
 
