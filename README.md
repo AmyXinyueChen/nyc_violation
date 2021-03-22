@@ -1,5 +1,16 @@
 # Analyzing Millions of NYC Parking Violations
 
+## Contents
+
+* [Description](#Description)
+
+* [General Information](#General Information) 
+
+* [Usage](#Usage)
+
+* [Arguments](#Arguments)
+
+
 ## Description
 
 This project is aimed to upload lots of data from the NYC Open Data Parking Violations and pushes that information into an Elasticsearch cluster provisioned via AWS by using EC2 instance. This way, the data is never “saved” into your EC2 instance but instead streamed directly to Elasticsearch.
